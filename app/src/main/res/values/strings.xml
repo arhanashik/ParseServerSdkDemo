@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ParseServerSdkDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="prompt_username">Username</string>
+
+    //facebook credentials
+    <string name="facebook_app_id">1980056888693361</string>
+    <string name="fb_login_protocol_scheme">fb1980056888693361</string>
+    <string name="action_continue_with_facebook">Continue With facebook</string>
+    <string name="action_logout">Log out</string>
+    <string name="action_anonymous_user">Login Anonymously</string>
+    <string name="action_reset_password">Reset Password</string>
+    <string name="action_continue_with_twitter">Continue with twitter</string>
+
+    //twitter credentials
+    <string name="twitter_consumer_key">WmAfk1tA6F86GYy0B5gqzD3U5</string>
+    <string name="twitter_consumer_secret">wjKyr3IByjUboqWEe6YK4FWuQrZSybW3W2VhORcnaCp944MPIH</string>
+    
+    //google credentials
+    <string name="api_key">AIzaSyDlxpLXEFnfoIG1Zb2RazGbvbW3M0Ie7NU</string>
+    <string name="client_id">164059209993-cjbadfvlprgf378ehfmqpcqi9e0k3hs1.apps.googleusercontent.com</string>
+    <string name="client_secret">1wrxudEKb-dXOyVSOdB0FLh0</string>
+</resources>
